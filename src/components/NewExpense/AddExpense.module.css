@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.card {
+  width: 50%;
+  background-color: lightcyan;
+}
+
+.input {
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: lightskyblue;
+  display: block;
+  width: 100%;
+}

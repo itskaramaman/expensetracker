@@ -1,0 +1,18 @@
+.card {
+  background-color: #ffcccb;
+  margin-bottom: 10px;
+}
+
+.cost {
+  padding: 8px;
+  border: solid white 4px;
+  border-radius: 10px;
+}
+
+.trash {
+  cursor: pointer;
+}
+
+.trash:hover {
+  color: red;
+}
